@@ -1,0 +1,8 @@
+{
+  "name": "Binance",
+  "short_name": "Binance",
+  "start_url": "/wallet-ui/",
+  "display": "standalone",
+  "background_color": "#0b0e11",
+  "theme_color": "#0b0e11"
+}
